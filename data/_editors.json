@@ -1,17 +1,17 @@
 [
     {
-        "role": "puke",
-        "name": "List Owner",
+        "role": "owner",
+        "name": "puke",
         "link": "https://www.youtube.com/@pukedpaws"
     },
     {
         "role": "admin",
-        "name": "List Admin",
+        "name": "Halo5167",
         "link": "https://www.youtube.com/@Halo5167-wastaken"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "POKEMONGD",
+        "link": "https://www.youtube.com/@POKEMON_GD"
     }
 ]
