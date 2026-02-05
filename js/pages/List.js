@@ -175,7 +175,7 @@ export default {
             }
         }
 
-        this.loading = true;
+        this.loading = false;
     },
     methods: {
         embed,
