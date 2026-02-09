@@ -8,5 +8,11 @@
     "percentToQualify": "70",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Afisoac",
+            "link": "https://youtu.be/0tRdVFtUaXU?si=CpAcatm6oWU0EYxz",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
