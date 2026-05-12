@@ -8,5 +8,11 @@
     "percentToQualify": "82",
     "password": "Free To Copy",
     "records": [
+    {
+            "user": "Adhafera",
+            "link": "https://www.youtube.com/watch?v=8fEe7-Kuuwk",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
