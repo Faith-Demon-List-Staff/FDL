@@ -1,6 +1,6 @@
 {
     "id": 138356396,
-    "name": "Brutal",
+    "name": "BRUTAL",
     "author": "Tshack",
     "creators": [],
     "verifier": "Afisoac",
@@ -20,5 +20,11 @@
             "percent": 100,
             "hz": 240
         }
+        {
+            "user": "zKiysa",
+            "link": "https://www.youtube.com/watch?v=P9OTe-dr63A&list=PLCp7f0vVToVaZExle1KgPGXv1zbsu6no9&index=22",
+            "percent": 100,
+            "hz": 280
+        },
     ]
 }
