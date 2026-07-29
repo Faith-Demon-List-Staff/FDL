@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=PocH9uvr-U4",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "Endy",
+            "link": "https://youtu.be/IPpEaX28I7I",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
