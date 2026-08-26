@@ -8,5 +8,11 @@
     "percentToQualify": "77",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "Ganvy",
+            "link": "https://www.youtube.com/watch?v=9frLsOSDpio",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
