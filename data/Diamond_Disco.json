@@ -8,5 +8,11 @@
     "percentToQualify": "74",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "APerson",
+            "link": "https://drive.google.com/file/d/1tbFbyr_TcP7xKx0KUnX7gxoYZ5OFlM2J/view?usp=sharing",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
