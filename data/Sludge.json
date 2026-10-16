@@ -14,5 +14,11 @@
             "percent": 100,
             "hz": 480
         }
+        {
+            "user": "Halo",
+            "link": "https://www.youtube.com/watch?v=LhQrzmcazIg",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
